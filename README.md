@@ -1,4 +1,6 @@
 # valorantify-preview
+We have been bought out by https://thespike.gg/ so here is a preview repo of what the site looked like
+
 Home page![alt text](https://github.com/AkramEld/valorantify-preview/blob/master/pics/Capture.PNG "Home")
 
 Teams page![alt text](https://github.com/AkramEld/valorantify-preview/blob/master/pics/Capture1.PNG "Home")
